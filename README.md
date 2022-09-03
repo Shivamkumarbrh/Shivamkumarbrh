@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shivamkumarbrh
-- 👀 I’m interested in solo travelling
-- 🌱 I’m currently learning git & github
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @shivamkumarbrh on twitter
 
 <!---
